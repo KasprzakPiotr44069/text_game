@@ -1,0 +1,7 @@
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\bin\Debug\Gra Tekstowa.exe.config
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\bin\Debug\Gra Tekstowa.exe
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\bin\Debug\Gra Tekstowa.pdb
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\obj\Debug\Gra Tekstowa.csprojAssemblyReference.cache
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\obj\Debug\Gra Tekstowa.csproj.CoreCompileInputs.cache
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\obj\Debug\Gra Tekstowa.exe
+C:\Users\piter\OneDrive\Pulpit\Gra tekstowa\Gra Tekstowa\Gra Tekstowa\obj\Debug\Gra Tekstowa.pdb
